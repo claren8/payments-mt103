@@ -1,0 +1,6 @@
+@Payments.MT103_HostAddress = http://localhost:5136
+
+GET {{Payments.MT103_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
